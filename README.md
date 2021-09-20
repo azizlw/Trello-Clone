@@ -25,10 +25,10 @@ I have used Firebase for login and signup and all the data will be stored in Clo
 
 <table>
     <tr>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello1.jpg?raw=true" width="300" height="600" class = "img-responsive"></td>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello2.jpg?raw=true" width="300" height="600" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello1.jpg?raw=true" width="330" height="600" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello2.jpg?raw=true" width="330" height="600" class = "img-responsive"></td>
         <td>
-            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello3.jpg?raw=true" width="300" height="600" class = "img-responsive">
+            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello3.jpg?raw=true" width="330" height="600" class = "img-responsive">
         </td>
     </tr>
 </table>
