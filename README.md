@@ -25,40 +25,40 @@ I have used Firebase for login and signup and all the data will be stored in Clo
 
 <table>
     <tr>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello1.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello2.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello1.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello2.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
         <td>
-            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello3.jpg?raw=true" width="300" height="450" class = "img-responsive">
+            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello3.jpg?raw=true" width="300" height="550" class = "img-responsive">
         </td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello4.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello5.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello4.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello5.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
         <td>
-            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello6.jpg?raw=true" width="300" height="450" class = "img-responsive">
+            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello6.jpg?raw=true" width="300" height="550" class = "img-responsive">
         </td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello7.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello8.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello7.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello8.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
         <td>
-            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello9.jpg?raw=true" width="300" height="450" class = "img-responsive">
+            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello9.jpg?raw=true" width="300" height="550" class = "img-responsive">
         </td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello10.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
-        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello11.jpg?raw=true" width="300" height="450" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello10.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
+        <td><img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello11.jpg?raw=true" width="300" height="550" class = "img-responsive"></td>
         <td>
-            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello12.jpg?raw=true" width="300" height="450" class = "img-responsive">
+            <img src = "https://github.com/azizlw/Trello-Clone/blob/master/AppImages/Trello12.jpg?raw=true" width="300" height="550" class = "img-responsive">
         </td>
     </tr>
 </table>
